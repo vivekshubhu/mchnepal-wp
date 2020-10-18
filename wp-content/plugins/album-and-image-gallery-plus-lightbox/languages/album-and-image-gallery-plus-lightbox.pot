@@ -1,0 +1,1076 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Album and Image Gallery Plus Lightbox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-27 11:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: album-and-image-gallery.php:157
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: album-and-image-gallery.php:158
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/aigpl-post-types.php:21 includes/aigpl-post-types.php:22
+#: includes/aigpl-post-types.php:35
+msgid "Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:23
+msgid "Add Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:24
+msgid "Add New Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:25
+msgid "Edit Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:26
+msgid "New Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:27
+msgid "View Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:28
+msgid "Search Album Gallery"
+msgstr ""
+
+#: includes/aigpl-post-types.php:29
+msgid "No Album Gallery Found"
+msgstr ""
+
+#: includes/aigpl-post-types.php:30
+msgid "No Album Gallery Found in Trash"
+msgstr ""
+
+#: includes/aigpl-post-types.php:32
+msgid "Album Image"
+msgstr ""
+
+#: includes/aigpl-post-types.php:33
+msgid "Set Album Image"
+msgstr ""
+
+#: includes/aigpl-post-types.php:34
+msgid "Remove Album Image"
+msgstr ""
+
+#: includes/aigpl-post-types.php:66 includes/aigpl-post-types.php:67
+#: includes/aigpl-post-types.php:76
+msgid "Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:68
+msgid "Search Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:69
+msgid "All Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:70
+msgid "Parent Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:71
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/aigpl-post-types.php:72
+msgid "Edit Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:73
+msgid "Update Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:74
+msgid "Add New Category"
+msgstr ""
+
+#: includes/aigpl-post-types.php:75
+msgid "New Category Name"
+msgstr ""
+
+#: includes/aigpl-post-types.php:108 includes/aigpl-post-types.php:111
+msgid "Album Gallery updated."
+msgstr ""
+
+#: includes/aigpl-post-types.php:109
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/aigpl-post-types.php:110
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/aigpl-post-types.php:112
+#, php-format
+msgid "Album Gallery restored to revision from %s"
+msgstr ""
+
+#: includes/aigpl-post-types.php:113
+msgid "Album Gallery published."
+msgstr ""
+
+#: includes/aigpl-post-types.php:114
+msgid "Album Gallery saved."
+msgstr ""
+
+#: includes/aigpl-post-types.php:115
+msgid "Album Gallery submitted."
+msgstr ""
+
+#: includes/aigpl-post-types.php:116
+#, php-format
+msgid "Album Gallery scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/aigpl-post-types.php:117
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/aigpl-post-types.php:118
+msgid "Album Gallery draft updated."
+msgstr ""
+
+#: includes/aigpl-functions.php:176 includes/aigpl-functions.php:189
+#: assets/js/blocks.build.js:1 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1 assets/js/blocks.build.js:1
+#: assets/js/blocks.build.js:1 assets/js/blocks.build.js:1
+msgid "Design 1"
+msgstr ""
+
+#: includes/class-aigpl-script.php:122
+#: includes/admin/metabox/aigpl-sett-metabox.php:39
+msgid "Edit Image in Popup"
+msgstr ""
+
+#: includes/class-aigpl-script.php:123
+#: includes/admin/settings/aigpl-img-popup-data.php:19
+#: includes/admin/metabox/aigpl-sett-metabox.php:40
+msgid "Edit Image"
+msgstr ""
+
+#: includes/class-aigpl-script.php:124
+#: includes/admin/metabox/aigpl-sett-metabox.php:41
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:22
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:22
+#: includes/admin/aigpl-how-it-work.php:116
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:101
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:119
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:154
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:162
+msgid "Geeting Started with Album Gallery"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:166
+msgid "Step-1. Go to \"Album Gallery --> Add Album Gallery tab\"."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:167
+msgid ""
+"Step-2. Add Album title, description and images under Album and Image "
+"Gallery Plus Lightbox - Settings."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:168
+msgid ""
+"Step-3. Under \"Choose Gallery Images\" click on \"Gallery Images\" button "
+"and select multiple images from WordPress media and click on \"Add to "
+"Gallery\" button."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:169
+msgid ""
+"Step-4. You can find out shortcode for album under \"Album Gallery\" list "
+"view."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:176
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:180
+msgid "Step-1. Create a page like Album OR My Album."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:181
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:188
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:191
+msgid "Gallery Grid Shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:192
+msgid "Gallery Slider Shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:193
+msgid "Image Album Grid Shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:194
+msgid "Image Album Slider Shortcode"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:200
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:203
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:204
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:205
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:220
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:224
+msgid "15+ image gallery designs"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:225
+msgid "4 shortcodes "
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:226
+msgid "Display album category wise"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:227
+msgid "Easy Drag & Drop Image Feature"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:228
+msgid "Masonry style for image gallery"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:229
+msgid "Display gallery image with title and description"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:230
+msgid "Display image album with title and description"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:231
+msgid "Custom link to gallery image"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:232
+msgid "Gutenberg Block Support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:233
+msgid "Template overriding feature support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:234
+msgid "Strong Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:235
+msgid "Slider Center Mode Effect"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:236
+msgid "Slider RTL support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:237
+msgid "Visual Composer support"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:238
+msgid "Custom CSS option"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:239
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:240
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:242
+msgid ""
+"Gain access to <strong>Album and Image Gallery Plus Lightbox</strong> "
+"included in <br /><strong>Essential Plugin Bundle"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:243
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:244
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:250
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:253
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/aigpl-how-it-work.php:253
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:61
+msgid "Album and Image Gallery Plus Lightbox - Settings"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:117
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:118
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:193
+#: includes/admin/class-aigpl-admin.php:229
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:209
+msgid "Attachment Found."
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:254
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:284
+msgid "Upgrade to PRO - Album and Image Gallery Plus Lightbox"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:284
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-aigpl-admin.php:287
+msgid "Hire Us"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album.php:28
+#: includes/shortcode/aigpl-gallery-album-slider.php:27
+#: includes/admin/supports/gutenberg-block.php:210
+#: includes/admin/supports/gutenberg-block.php:309
+msgid "Photos"
+msgstr ""
+
+#: includes/shortcode/aigpl-gallery-album.php:162
+#: includes/shortcode/aigpl-gallery-album-slider.php:180
+msgid "Main Album"
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:462
+msgid "WPOS Blocks"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup.php:17
+msgid "Close (Esc)"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup.php:22
+msgid "Please Wait"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:30
+msgid "Edit Image From Attachment Page"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:34
+msgid "Title"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:37
+msgid "Enter image title."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:42
+msgid "Alternative Text"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:45
+msgid "Enter image alternative text."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:50
+msgid "Caption"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:53
+msgid "Enter image caption."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:58
+msgid "Description"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:61
+msgid "Enter image description."
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:66
+msgid "Image Link"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:69
+msgid "Enter image link. e.g http://wponlinesupport.com"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:78
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/aigpl-img-popup-data.php:79
+msgid "Close"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Album and Image Gallery Plus Lightbox - Features"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:24
+msgid "Choose Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:27
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:28
+msgid "Remove Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:49
+msgid "No Gallery Images"
+msgstr ""
+
+#: includes/admin/metabox/aigpl-sett-metabox.php:52
+msgid ""
+"Choose your desired images for gallery. Hold Ctrl key to select multiple "
+"images at a time."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display gallery in a grid view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "gallery grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display gallery in a slider view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "gallery slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Album Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display gallery album in a grid view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "gallery album grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Album Slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display gallery album in a slider view with various layouts."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "gallery album slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "True"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "False"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design 2"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design 3"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design 4"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Same Window"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "New Window"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Modified Date"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Title"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post Slug"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Post ID"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Random"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Menu Order (Sort Order)"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Descending"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Ascending"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "General Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album Post ID"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"album listing page."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter id of the album which you want to display."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Design"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Number of Columns"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select number of column per row."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Title"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Description"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Caption"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Media Size"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Choose WordPress registered image size. e.g thumbnail, medium, large, full."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Height"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can enter any numeric number. e.g 300. Leave empty for default height."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Control height of the gallery image."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Popup"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Link Behaviour"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Offset (Space Between Two Images)"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Space between two gallery images. You can enter any numeric number. e.g 5 "
+"Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Premium version "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "to get this option."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Masonry View"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display gallery images in a masonry layout. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album and Image Gallery Plus Lightbox - Gallery"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you want to check demo of this plugin."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Click here"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Do you also want to check premium version demo of this plugin."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select Lazyload"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Ondemand"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Progressive"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slider Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slide To Show"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number for Slide to show at a time."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slide To Scroll"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number to scroll slider at a time."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Dots"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show pagination dots."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Arrows"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show prev - next arrows."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Autoplay Interval"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter autoplay interval speed."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Speed"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter slide speed."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Loop"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enable infinite loop for continuous sliding."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Cetermode"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enable slider center mode effect. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause On Hover"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause slider autoplay on hover. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause On Focus"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pause slider autoplay when slider element is focused. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Slider Lazyload"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select option to use lazy loading in slider."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album and Image Gallery Plus Lightbox - Gallery Slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Numeric Pagination"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Show Full Content"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Content Words limit"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter content word limit."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Content Tail"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display dots after the post content as continue reading."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album Height"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can enter any numeric number. e.g 500. Leave empty for default height."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Control height of the album image."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Total Photos"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Control photo count label. \"{total}\" will replace the number of album "
+"photos."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album Popup"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display album image in a popup. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display album images in a masonry layout. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Gallery Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Total Items"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter number of album post to be displayed. Enter -1 to display all."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Order By"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select order type. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Order"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Select sorting order. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Album of Specific Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"You can pass multiple ids with comma seperated. You can find id at relevant "
+"category listing page."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Enter category id to display categories wise."
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Include Child Category Album"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"If you are using parent category then whether to display child category or "
+"not. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Category"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude album category. Works only if `Category` field is empty. You can "
+"pass multiple ids with comma seperated. You can find id at relevant category "
+"listing page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Specific Album"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Exclude Specific Album"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Enter id of the album which you do not want to display. You can pass "
+"multiple ids with comma seperated. You can find id at relevant album listing "
+"page. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Pagination. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Pagination Type"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Display Pagination for album post. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Query Offset"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid ""
+"Exclude number of posts from starting. e.g if you pass 5 then it will skip "
+"first five post. Note: This will not work with limit=-1. Upgarade to "
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album and Image Gallery Plus Lightbox - Album Grid"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album Slider Parameters"
+msgstr ""
+
+#: assets/js/blocks.build.js:1
+msgid "Album and Image Gallery Plus Lightbox - Album Slider"
+msgstr ""
+
+#. Name of the plugin
+msgid "Album and Image Gallery Plus Lightbox"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display image gallery and gallery slider. Also work with "
+"Gutenberg shortcode block."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
